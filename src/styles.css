@@ -1,0 +1,55 @@
+body {
+  font-family: "Hachi Maru Pop", cursive;
+  padding: 0 20px;
+  background: radial-gradient(
+    328px at 2.9% 15%,
+    rgb(191, 224, 251) 0%,
+    rgb(232, 233, 251) 25.8%,
+    rgb(252, 239, 250) 50.8%,
+    rgb(234, 251, 251) 77.6%,
+    rgb(240, 251, 244) 100.7%
+  );
+}
+
+.main-image {
+  max-width: 50%;
+  margin: 0 auto;
+  display: block;
+  border-style: dotted;
+}
+
+h1 {
+  font-family: "Hachi Maru Pop", cursive;
+  text-align: center;
+  padding: 10px;
+  margin-top: 5%;
+  font-weight: 900;
+  margin: auto 0;
+  font-size: 36px;
+  line-height: 48px;
+}
+
+h2 {
+  font-family: "Hachi Maru Pop", cursive;
+  text-align: center;
+  font-weight: 900;
+  margin-bottom: 10rem;
+  font-size: 24px;
+  line-height: 40px;
+}
+
+.todayicon {
+  margin: 0 auto;
+  display: block;
+  width: 40px;
+}
+.container h2 {
+  margin-bottom: 5rem;
+}
+.form {
+  margin-right: 10%;
+  color: rgb(199, 184, 119);
+}
+.card {
+  border: rgb(17, 6, 27);
+}
